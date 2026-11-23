@@ -197,13 +197,13 @@ Duplicate Records: 0
 ```text
 
 │
-├── main.py
+├── README.md
+│
+├── retail_analyzer.py
 │
 ├── retail_sales.csv
 │
-├── README.md
-│
-└── requirements.txt
+
 ```
 
 
